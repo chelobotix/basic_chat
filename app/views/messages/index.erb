@@ -1,0 +1,8 @@
+<p>Hello</p>
+<div id="chat-box"></div>
+
+<%= form_with(scope: :message, url: messages_path, remote: true, method: :post) do |f| %>
+  <%= f.text_field :text, placeholder: 'Enter your message', autofocus: true %>
+  <%= f.submit "send message" %>
+
+<% end %>
