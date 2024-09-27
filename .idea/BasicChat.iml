@@ -50,6 +50,7 @@
     <orderEntry type="library" scope="PROVIDED" name="crass (v1.0.6, RVM: ruby-2.7.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="date (v3.3.4, RVM: ruby-2.7.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="debug (v1.9.2, RVM: ruby-2.7.5) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="dockerfile-rails (v1.6.20, RVM: ruby-2.7.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="drb (v2.2.1, RVM: ruby-2.7.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="erubi (v1.13.0, RVM: ruby-2.7.5) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="globalid (v1.2.1, RVM: ruby-2.7.5) [gem]" level="application" />
@@ -115,6 +116,7 @@
         <option value="benchmark" />
         <option value="channel" />
         <option value="controller" />
+        <option value="dockerfile" />
         <option value="generator" />
         <option value="helper" />
         <option value="integration_test" />
@@ -153,6 +155,7 @@
         <option value="benchmark" />
         <option value="channel" />
         <option value="controller" />
+        <option value="dockerfile" />
         <option value="generator" />
         <option value="helper" />
         <option value="integration_test" />
